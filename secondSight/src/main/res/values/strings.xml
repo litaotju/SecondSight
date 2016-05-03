@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Second Sight</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_lab">Handle Photo</string>
+    <string name="title_activity_live_cam">Live Cameara</string>
+    <string name="title_activity_browser">Enjoy Yourself</string>
+    <string name ="title_view_notification">Enjoy Your self</string>
+    <string name="menu_next_camera">Next Camera</string>
+    <string name="menu_take_photo">Shot Photo</string>
+    <string name="menu_next_curve_filter">Next Curve</string>
+    <string name="menu_next_mixer_filter">Next Mixer</string>
+    <string name="menu_next_convolution_filter">Next Kernel</string>
+    <string name="menu_notification">Notification</string>
+    <string name="menu_live">Live</string>
+    <string name="menu_delete">Delete</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_edit">Edit</string>
+    <string name="photo_delete_prompt_message">This photo is saved in your Gallery. Do you want to delete it?</string>
+    <string name="photo_delete_prompt_title">Delete photo?</string>
+    <string name="photo_error_message">Failed to save photo</string>
+    <string name="photo_edit_chooser_title">Edit photo with &#8230;</string>
+    <string name="photo_send_chooser_title">Share photo with&#8230;</string>
+    <string name="photo_send_extra_subject">My photo from Second Sight</string>
+    <string name="photo_send_extra_text">Check out my photo from the Second Sight app! http://nummist.com/opencv/</string>
+    <string name="nofication_start">Please enjoy this app</string>
+    <string name="notification_content">这时候，我惊奇已定，觉得要尽点主人的义务，对来客说："承你老人家半夜暗临，蓬蔽生黑，十分荣幸！只恨独身作客，没有预备欢迎，抱歉得很！老人家觉得冷么？失陪一会，让我去叫醒佣人来沏壶茶，添些碳。" 
+        "那可不必，"他极客气地阻止我，"我只坐一会儿就要去的。并且，我告诉你"——他那时的表情，亲信而带严重，极像向医生报告隐病时的病人——"反正我是烤火不暖的。我少年时大闹天宫，想夺上帝的位子不料没有成功，反而被贬入寒冰地狱受苦刑，好像你们人世从前俄国的革命党，被暴君充配到西伯利亚雪地一样。我通身热度都被寒气逼入心里，变成一个热中冷血的角色。我曾在火炕上坐了三天三夜，屁股还是像窗外的冬夜，深黑地冷……"    </string>
+    <string name="button_nav">自由浏览</string>
+    <string name="button_rondom">随机整数</string>
+    <string name="button_meinv">运气一下</string>
+    <string name="button_blog">博客</string>
+    <string name="editText1_hint">Babe Number\:</string>
+
+    
+</resources>

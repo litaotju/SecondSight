@@ -1,0 +1,29 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.tju.secondsight.LabActivity" >
+
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/action_settings"/>
+
+    <item
+        android:id="@+id/menu_share"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/menu_share"/>
+    
+    <item
+        android:id="@+id/menu_edit"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/menu_edit"/>
+    
+    <item
+        android:id="@+id/menu_delete"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/menu_delete"/>
+    
+</menu>

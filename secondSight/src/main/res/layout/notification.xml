@@ -1,0 +1,52 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical|center_horizontal"
+        android:layout_margin="@dimen/activity_vertical_margin"
+        android:text="@string/notification_content"
+        android:textAlignment="center" />
+
+    <RatingBar
+        android:id="@+id/ratingBar1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:numStars="5" />
+    <EditText
+        android:id="@+id/editText1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAlignment="center"
+        android:hint="@string/editText1_hint"
+        />
+    <Button
+        android:id="@+id/buttonNav"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/button_nav"
+        />
+    <Button
+        android:id="@+id/buttonRondom"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/button_rondom"
+        />
+    <Button 
+        android:id="@+id/meinvButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/button_meinv"
+        />
+    <Button 
+        android:id="@+id/blogButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/button_blog"
+        />
+</LinearLayout>

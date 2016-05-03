@@ -1,0 +1,44 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.tju.secondsight.CameraActivity" >
+    <item
+    android:id="@+id/menu_next_camera"
+    android:orderInCategory="100"
+    android:showAsAction="ifRoom|withText"
+    android:title="@string/menu_next_camera"/>
+	<item
+	android:id="@+id/menu_next_curve_filter"
+	android:orderInCategory="100"
+	android:showAsAction="ifRoom|withText"
+	android:title="@string/menu_next_curve_filter" />
+	<item
+	android:id="@+id/menu_next_mixer_filter"
+	android:orderInCategory="100"
+	android:showAsAction="ifRoom|withText"
+	android:title="@string/menu_next_mixer_filter" />
+	<item
+	android:id="@+id/menu_next_convolution_filter"
+	android:orderInCategory="100"
+	android:showAsAction="ifRoom|withText"
+	android:title="@string/menu_next_convolution_filter" />
+    <item
+    android:id="@+id/menu_take_photo"
+    android:orderInCategory="100"
+    android:showAsAction="always|withText"
+    android:title="@string/menu_take_photo"/>
+    <item
+    android:id="@+id/menu_live"
+    android:orderInCategory="100"
+    android:showAsAction="always|withText"
+    android:title="@string/menu_live"/>
+    <item
+     android:id="@+id/action_settings"
+     android:orderInCategory="100"
+     android:showAsAction="never"
+     android:title="@string/action_settings"/>
+    <item
+     android:id="@+id/menu_notification"
+     android:orderInCategory="100"
+     android:showAsAction="never"
+     android:title="@string/menu_notification"/>
+</menu>
